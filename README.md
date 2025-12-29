@@ -2,6 +2,8 @@
 
 Subroutines of the Pantunis system that check for similarity between the user submissions and the saved pantuns in the database.
 
+![Diagram explaining the submission flow for the Pantunis system](images/pantunis_submission_flow.png)
+
 ## Cosine Similarity
 
 Checks for meaning between the files.
